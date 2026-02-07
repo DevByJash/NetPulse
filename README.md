@@ -213,13 +213,13 @@ Third-party libraries used in this project (such as React) are licensed under MI
 ---
 ## 📸 Preview Screenshots
 
-![Screenshot 1](assets/preview/Screenshot-1.png)
-![Screenshot 2](assets/preview/Screenshot-2.png)
-![Screenshot 3](assets/preview/Screenshot-3.png)
-![Screenshot 4](assets/preview/Screenshot-4.png)
-![Screenshot 5](assets/preview/Screenshot-5.png)
-![Screenshot 6](assets/preview/Screenshot-6.png)
-![Screenshot 7](assets/preview/Screenshot-7.png)
+![Screenshot 1](assets/preview/Screenshot-1.jpg)
+![Screenshot 2](assets/preview/Screenshot-2.jpg)
+![Screenshot 3](assets/preview/Screenshot-3.jpg)
+![Screenshot 4](assets/preview/Screenshot-4.jpg)
+![Screenshot 5](assets/preview/Screenshot-5.jpg)
+![Screenshot 6](assets/preview/Screenshot-6.jpg)
+![Screenshot 7](assets/preview/Screenshot-7.jpg)
 
 ---
 
