@@ -1,18 +1,18 @@
-🚀 NetPulse Speed Test
+## 🚀 NetPulse Speed Test
 
 NetPulse Speed Test is a modern, high-performance web application designed to measure and visualize internet connection performance in real time. It delivers accurate network metrics through a sleek, responsive, and animated user interface.
 
 
 ---
 
-📌 Overview
+## 📌 Overview
 
 NetPulse is a client-side Single Page Application (SPA) built using React and optimized for production. The application runs entirely in the browser and does not require any backend services.
 
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 /
 ├── index.html          # Main HTML entry point
@@ -24,7 +24,7 @@ NetPulse is a client-side Single Page Application (SPA) built using React and op
 
 ---
 
-🧱 index.html (Application Entry Point)
+## 🧱 index.html (Application Entry Point)
 
 The index.html file acts as the bootstrap for the entire application.
 
@@ -48,7 +48,7 @@ All UI components are rendered dynamically inside this root element by React.
 
 ---
 
-🎨 Styling: index.min.css
+## 🎨 Styling: index.min.css
 
 The styling system is built using Tailwind CSS and compiled into a single minified file for production.
 
@@ -77,7 +77,7 @@ Layout: Flexbox and Grid utilities
 
 ---
 
-⚙️ JavaScript: index.min.js
+## ⚙️ JavaScript: index.min.js
 
 This file contains the complete compiled React application.
 
@@ -106,7 +106,7 @@ Lazy execution where applicable
 
 ---
 
-🔄 Application Flow
+## 🔄 Application Flow
 
 1. Browser loads index.html
 
@@ -133,7 +133,7 @@ Lazy execution where applicable
 
 ---
 
-🖥️ Technology Stack
+## 🖥️ Technology Stack
 
 Layer	Technology
 
@@ -148,7 +148,7 @@ Deployment	Static Hosting
 
 ---
 
-🔐 Security & Performance
+## 🔐 Security & Performance
 
 Security
 
@@ -173,7 +173,7 @@ GPU-accelerated animations
 
 ---
 
-🚀 Deployment
+## 🚀 Deployment
 
 NetPulse can be deployed on any static hosting service such as:
 
@@ -191,7 +191,7 @@ Simply upload the production files. No build step is required.
 
 ---
 
-🛠️ Development Notes
+## 🛠️ Development Notes
 
 This repository contains only production assets
 
@@ -205,13 +205,30 @@ React DevTools may partially inspect components
 
 ---
 
-📄 License
+## 📄 License
 
 Third-party libraries used in this project (such as React) are licensed under MIT. Application-specific licensing depends on the original author.
 
 
 ---
+## 📸 Preview Screenshots
 
-✨ Summary
+![Screenshot 1](assets/preview/Screenshot-1.png)
+![Screenshot 2](assets/preview/Screenshot-2.png)
+![Screenshot 3](assets/preview/Screenshot-3.png)
+![Screenshot 4](assets/preview/Screenshot-4.png)
+![Screenshot 5](assets/preview/Screenshot-5.png)
+![Screenshot 6](assets/preview/Screenshot-6.png)
+![Screenshot 7](assets/preview/Screenshot-7.png)
+
+---
+
+## ✨ Summary
 
 NetPulse Speed Test is a fast, modern, and visually polished web application for measuring internet performance. Its client-side architecture ensures speed, scalability, and ease of deployment, making it ideal for public-facing network diagnostic tools.
+
+---
+
+## 🪐 Devloper & Credit
+
+Devloper - @Devbyjash
